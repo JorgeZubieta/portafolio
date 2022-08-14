@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    box-sizing: border-box;
+    /* borde de la caja */
+}
+/* selector universal donde se plica a todo */
+
+a{
+    margin: 5px;
+}
+
+p{
+    margin: 5px;
+    padding:10px;
+    width: 500px;
+    /* ancho de parrafo */
+    border: 1px solid red;
+}
