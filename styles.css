@@ -18,3 +18,9 @@ p{
     /* ancho de parrafo */
     border: 1px solid red;
 }
+
+body{
+    font-family: "Roboto", sans-serif;
+    /* sans-serif -> al estilo de letra le quita los picos de las esquinas  */
+    /* Roboto seleccionada de google fonts debe ir entre comilas y con la R en mayuscula segun ;a regla de la web  */
+}
